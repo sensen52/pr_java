@@ -18,6 +18,7 @@ public class ch02systemOut {
 		System.out.printf("%s %s %s \n","this is","string","test");
 		System.out.printf("%s %s %s \n","this is","string","test");
 		System.out.printf("%d.%s : %d\n",1,"국어",100);
+		System.out.println("I say"hello"");
 	}
 
 }
